@@ -8,8 +8,8 @@ How to un the python file ?
 kubectl get all,pvc -n default -o yaml > FILE_NAME.yaml
 
 Python3 mermaid-k8s-all.py NAME_OF_THE_YAML_FILE_INPUT_FROM_USER_CLUSTER
+Example :   Python3 mermaid-k8s-all.py  FILE_NAME.yaml
 
-python3 mermaid-k8s-all.py all.yaml
 
 Once the python file runs successfully, It will generate an output .MMD file: Mermaid_class_diagram_output.mmd
 
