@@ -1,7 +1,10 @@
 # Visualize Kubernetes cluster resources with MERMAID
 
-
-> Please refer to the attached doc ** "Visualize kubernetes resources with Mermaid.docx" ** to know better insights about this project **
+<br />
+<br />
+> Please refer to the attached doc **"Visualize kubernetes resources with Mermaid.docx"** to know better insights about this project **
+<br />
+<br />
 
 ## How to un the python file ? ##
 
