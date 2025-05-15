@@ -2,6 +2,7 @@
 
 
 To get the detials of this project and how to run the Python tool, Please refer :  "Visualize kubernetes resources with Mermaid.docx" in this repository
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 ## How to un the python file ? ##
