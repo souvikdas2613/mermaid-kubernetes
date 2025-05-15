@@ -2,7 +2,7 @@
 
 <br />
 <br />
-> Please refer to the attached doc **"Visualize kubernetes resources with Mermaid.docx"** to know better insights about this project **
+> Please refer to the attached doc **"Visualize kubernetes resources with Mermaid.docx"** to know better insights about this project
 <br />
 <br />
 
