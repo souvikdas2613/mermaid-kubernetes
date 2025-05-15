@@ -3,7 +3,8 @@
 
 To get the detials of this project and how to run the Python tool, Please refer :  "Visualize kubernetes resources with Mermaid.docx" in this repository
 
-How to un the python file ?
+
+## How to un the python file ? ##
 
 kubectl get all,pvc -n default -o yaml > FILE_NAME.yaml
 
